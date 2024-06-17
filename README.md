@@ -12,9 +12,9 @@ This project is an exploratory data analysis into a Kaggle dataset of car crashe
 
 
 ## Authors
-ivan-valverde: Data Cleaning, Lead on presentation
-KBerry01: Data Cleaning, Questions 1 and 2
-MoonSplosion: Data Cleaning, Question 3
+ivan-valverde: Data Cleaning, Lead on presentation\
+KBerry01: Data Cleaning, Questions 1 and 2\
+MoonSplosion: Data Cleaning, Question 3\
 martabaker: Data Cleaning, Map, Regressions
 
 ## Works Cited
