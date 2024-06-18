@@ -18,6 +18,7 @@ This project is an exploratory data analysis into a Kaggle dataset of car crashe
 - Analyze the Primary Factor data to determine if there was a relationship between the Primary Factor for accidents and either the injuries sustained or the type of collision
 - Compare this dataset with one where people live to determine if people are more likely to get in collisions close to where they live
 - Define injury types more granularly
+- Compare this dataset with one from the same county for the pandemic years and post-pandemic to examine if people are more likely to get into accidents post-pandemic or if crashes are more severe post-pandemic
 - Adjust the Random Forest Regressor and Test-Train Split to better train the model
 - Create a Random Forest Classifier model because that would likely be a better predictor than the Random Forest Regressor given the data available
 
