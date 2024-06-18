@@ -22,10 +22,10 @@ This project is an exploratory data analysis into a Kaggle dataset of car crashe
 - Create a Random Forest Classifier model because that would likely be a better predictor than the Random Forest Regressor given the data available
 
 ## Authors
-ivan-valverde: Data Cleaning, Lead on presentation\
-KBerry01: Data Cleaning, Questions 1 and 2\
-MoonSplosion: Data Cleaning, Question 3\
-martabaker: Data Cleaning, Map, Regressions
+Ivan Valverde (ivan-valverde): Data Cleaning, Lead on presentation\
+Kenny Berry (KBerry01): Data Cleaning, Questions 1 and 2\
+Zach Dallas (MoonSplosion): Data Cleaning, Question 3\
+Marta Baker (martabaker): Data Cleaning, Map, Regressions
 
 ## Works Cited
 Harold, Tosin. "Enhancing Correlation Matrix Heatmap Plots with p-values in Python." Medium, 23 Jan. 2020, tosinharold.medium.com/enhancing-correlation-matrix-heatmap-plots-with-p-values-in-python-41bac6a7fd77.\
